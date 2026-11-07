@@ -1,0 +1,4 @@
+# JSONはUTF-8(BOMなし)・LFで保存し、取得結果をこのファイルと完全一致で照合する。
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
